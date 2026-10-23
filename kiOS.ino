@@ -1378,7 +1378,7 @@ void setup() {
   tft.fillScreen(BG);
   centerText("kiOS", 160, 100, 6, FG, BG);
   centerText("Kershaw Industries OS", 160, 150, 2, TFT_WHITE, BG);
-  centerText("v2.0", 160, 180, 2, DIM, BG);
+  centerText("v1.0", 160, 180, 2, DIM, BG);
   delay(1400);
 
   setDefaultCal();
